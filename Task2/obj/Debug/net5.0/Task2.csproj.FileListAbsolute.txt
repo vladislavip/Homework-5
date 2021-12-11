@@ -1,0 +1,16 @@
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\bin\Debug\net5.0\Task2.exe
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\bin\Debug\net5.0\Task2.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\bin\Debug\net5.0\Task2.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\bin\Debug\net5.0\ref\Task2.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\bin\Debug\net5.0\Task2.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\obj\Debug\net5.0\Task2.csproj.AssemblyReference.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\obj\Debug\net5.0\Task2.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\obj\Debug\net5.0\ref\Task2.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\obj\Debug\net5.0\Task2.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\bin\Debug\net5.0\Task8.exe
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\bin\Debug\net5.0\Task8.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\bin\Debug\net5.0\Task8.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\bin\Debug\net5.0\Task8.runtimeconfig.dev.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\bin\Debug\net5.0\Task8.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\bin\Debug\net5.0\ref\Task8.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\bin\Debug\net5.0\Task8.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\obj\Debug\net5.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\obj\Debug\net5.0\Task8.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\obj\Debug\net5.0\Task8.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\obj\Debug\net5.0\Task8.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\obj\Debug\net5.0\Task8.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\obj\Debug\net5.0\ref\Task8.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\obj\Debug\net5.0\Task8.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\obj\Debug\net5.0\Task8.genruntimeconfig.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task\obj\Debug\net5.0\Task8.csproj.AssemblyReference.cache

@@ -1,0 +1,48 @@
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.exe
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.runtimeconfig.dev.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\ref\Task14.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\ref\Task14.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.genruntimeconfig.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.exe
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.deps.json
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.runtimeconfig.json
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.dll
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\ref\Task14.dll
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.pdb
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.dll
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\ref\Task14.dll
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.pdb
+C:\Users\Vlad\Desktop\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.genruntimeconfig.cache
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.exe
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.runtimeconfig.dev.json
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\ref\Task14.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\bin\Debug\net5.0\Task14.pdb
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.csproj.AssemblyReference.cache
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\ref\Task14.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.pdb
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_5_eve2_03_12_21 new\Homework\Task14\obj\Debug\net5.0\Task14.genruntimeconfig.cache
